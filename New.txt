@@ -1,6 +1,8 @@
 Hello!
 
 I am S. M. Haris.
+My ID is 211-15-14636.
+My department is Computer Science and Engineering in Daffodil International University.
 This is my first time using Git and GitHub.
 
 Thank You...
